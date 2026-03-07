@@ -1,2 +1,19 @@
-hola como estás? 
-muy bien?
+Parte 1 – La línea que no debía existir
+
+Gael no buscaba problemas. Solo estaba haciendo su trabajo.
+
+Tenía 19 años y hacía sus prácticas en el área de sistemas de una empresa que administraba bases de datos para instituciones públicas. Su tarea esa semana era aburrida: revisar registros antiguos, limpiar archivos repetidos y optimizar consultas.
+
+Pero en medio de miles de líneas de código, encontró algo que no estaba en los manuales.
+
+Un archivo oculto.
+
+No tenía descripción clara, solo un nombre frío y directo:
+
+ultimo_codigo.sql
+
+Intentó abrirlo. Acceso denegado.
+
+Eso fue lo que lo inquietó. Porque en programación, cuando algo se esconde demasiado… es porque alguien no quiere que lo vean.
+
+Y Gael siempre había sido el tipo de persona que no soporta dejar una pregunta sin respuesta.
