@@ -24,6 +24,5 @@ El archivo tenía un comentario al inicio:
 
 Gael pensó:
 “¿Necesario para quién?”
-Y
-u
+
 
