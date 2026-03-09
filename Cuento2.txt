@@ -1,0 +1,28 @@
+Parte 2 – Lo que el código hacía en silencio
+
+Días después, con permisos temporales de administrador por mantenimiento, logró abrir el archivo.
+
+Al principio no entendió lo que veía.
+
+Luego lo entendió todo.
+
+Era una instrucción preparada para ejecutarse si llegaba una auditoría externa. Una consulta diseñada para borrar registros específicos: contratos, transferencias, modificaciones presupuestales.
+
+No apagaba el sistema.
+No dañaba servidores.
+
+Solo eliminaba pruebas.
+
+Era limpio. Rápido. Preciso.
+
+Si alguien investigaba, ese código haría desaparecer años de movimientos sospechosos en segundos.
+
+Gael sintió un nudo en el estómago.
+
+No era una teoría conspirativa.
+Era real.
+Y estaba ahí, esperando el momento adecuado para ser usado.
+
+En ese instante dejó de ser un simple practicante.
+
+Ahora sabía algo que no debía saber.
